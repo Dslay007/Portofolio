@@ -244,6 +244,28 @@ const App = () => {
         tech: ["Figma", "Prototyping", "User Research"],
         links: { demo: "#", repo: "#" },
         image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        id: 6,
+        title: "Commodity Prediction Dashboard",
+        category: "UI/UX & Data Viz",
+        role: "UI/UX Designer",
+        desc: "Desain dashboard prediksi harga komoditas pertanian. Memvisualisasikan data kompleks menjadi grafik tren yang mudah dipahami petani dan stakeholder.",
+        features: ["Trend Visualization", "Price Forecasting UI", "Clean Interface"],
+        tech: ["Figma", "Data Vis", "Prototyping"],
+        links: { demo: "#", repo: "#" },
+        image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        id: 7,
+        title: "Anemia Detection App",
+        category: "HealthTech UI/UX",
+        role: "UI/UX Designer",
+        desc: "Antarmuka aplikasi deteksi anemia non-invasif berbasis AI. Fokus pada experience pengambilan foto mata (konjungtiva) yang akurat dan mudah.",
+        features: ["AI Scan Flow", "Health Report", "User-Friendly Guide"],
+        tech: ["Figma", "User Flow", "Mobile Design"],
+        links: { demo: "#", repo: "#" },
+        image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800"
       }
     ],
 
@@ -359,8 +381,7 @@ const App = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-slate-600 max-w-3xl mx-auto mb-10 leading-relaxed font-light">
-            Mahasiswa <strong className="text-blue-600 font-semibold">Sistem Informasi Bisnis</strong> yang menjembatani <strong className="text-rose-500 font-semibold">Kreativitas Visual</strong> dan <strong className="text-purple-600 font-semibold">Analisis Teknis</strong>.
-            <br className="hidden md:block" /> Spesialis dalam UI/UX, Manajemen Konten, dan Pengembangan Sistem.
+            Mahasiswa <strong className="text-blue-600 font-semibold">Sistem Informasi Bisnis</strong> yang memadukan <strong className="text-rose-500 font-semibold">Kreativitas Visual</strong> dan <strong className="text-purple-600 font-semibold">Analisis Teknis</strong> untuk merubah permasalahan kompleks menjadi solusi digital yang intuitif dan berdampak.
           </p>
 
           <div className="flex flex-wrap justify-center gap-4 mb-16">
